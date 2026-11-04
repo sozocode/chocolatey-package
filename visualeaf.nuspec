@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>visualeaf</id>
+    <version>1.0.2686</version>
+    <packageSourceUrl>https://github.com/sozocode/chocolatey-package</packageSourceUrl>
+    <owners>SozoCode</owners>
+    <title>VisuaLeaf</title>
+    <authors>SozoCode LLC</authors>
+    <projectUrl>https://visualeaf.com</projectUrl>
+    <iconUrl>https://visualeaf.com/assets/images/apple-touch-icon.png</iconUrl>
+    <copyright>Copyright (c) 2024-2026 SozoCode LLC</copyright>
+    <licenseUrl>https://visualeaf.com/eula</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <docsUrl>https://visualeaf.com/docs</docsUrl>
+    <bugTrackerUrl>https://github.com/sozocode/VisuaLeaf/issues</bugTrackerUrl>
+    <tags>visualeaf mongodb sql database gui postgresql mysql admin</tags>
+    <summary>Desktop GUI for browsing, querying and visualizing MongoDB and SQL databases.</summary>
+    <description><![CDATA[VisuaLeaf is a desktop tool for browsing, querying and visualizing MongoDB and SQL databases.
+
+## Features
+
+- Visual query builder
+- Aggregation pipeline builder
+- MongoDB shell
+- Charts and dashboards
+- Schema diagrams
+- Import and export in many formats
+
+## Notes
+
+- This package installs the 64-bit (x64) version of VisuaLeaf for all users on the machine.
+- VisuaLeaf updates itself automatically when a new version is released. The version shown by Chocolatey can therefore lag behind the version actually installed. The Chocolatey package is updated for each release as well.
+]]></description>
+    <releaseNotes>https://visualeaf.com/releases</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
