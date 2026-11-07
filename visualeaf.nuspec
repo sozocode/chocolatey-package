@@ -18,6 +18,10 @@
     <summary>Desktop GUI for browsing, querying and visualizing MongoDB and SQL databases.</summary>
     <description><![CDATA[VisuaLeaf is a desktop tool for browsing, querying and visualizing MongoDB and SQL databases.
 
+## Pricing
+
+VisuaLeaf is freemium. The free Community Edition is limited to 3 saved MongoDB connections and does not include the visual query builder. The paid Basic and Professional tiers remove these limits, and a 14-day Pro trial is available. See https://visualeaf.com/pricing for details.
+
 ## Features
 
 - Visual query builder
