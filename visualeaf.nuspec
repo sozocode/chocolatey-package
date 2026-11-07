@@ -24,12 +24,43 @@ VisuaLeaf is freemium. The free Community Edition is limited to 3 saved MongoDB 
 
 ## Features
 
-- Visual query builder
-- Aggregation pipeline builder
-- MongoDB shell
-- Charts and dashboards
-- Schema diagrams
-- Import and export in many formats
+See https://visualeaf.com/features for the full tour.
+
+### Explore and manage
+
+- **Connection Manager:** keep MongoDB, PostgreSQL, MySQL, SQL Server, SQLite and other connections in one place and switch between them quickly.
+- **Browse Collections:** browse MongoDB collections and SQL tables, with tree, table and BSON views.
+- **MongoDB Shell and SQL Scripts:** run mongosh commands or SQL scripts with syntax highlighting, autocomplete and command history.
+- **SQL Mode for MongoDB:** query MongoDB collections with SQL and see the find() or aggregation pipeline it becomes.
+- **Index Manager:** create, view and manage indexes visually on MongoDB and SQL databases.
+- **GridFS Viewer:** manage and preview files stored in MongoDB GridFS.
+- **Split Panel Views:** open collections, tables, queries, ER diagrams and dashboards side by side.
+- **SQL Editor:** write and run SQL with autocomplete, work in a transaction with Commit and Rollback, and stop long queries.
+- **Table Management:** create and change SQL tables, keys, indexes, triggers and CHECK constraints with a live SQL preview.
+- **Redis Browser:** browse and edit Redis keys of every type, run CLI scripts and watch server health.
+
+### Build and optimize
+
+- **Visual Query Builder:** build SQL with suggested JOINs and a live preview, or MongoDB filters with AND/OR groups.
+- **Aggregation Pipeline:** build aggregation pipelines with stage-by-stage previews and performance metrics.
+- **ER Diagrams and Visual Schema:** generate ER diagrams from SQL foreign keys or MongoDB collections.
+- **Schema Validation:** design JSON Schemas visually with full BSON types and one-click verification.
+- **Query Profiler:** find slow queries in MongoDB and SQL databases and get index suggestions.
+- **Mock Data Generator:** fill a database with realistic, linked test data in seconds.
+- **AI Assistant and MCP:** get AI help with queries, aggregations and explain plans, or connect your own assistant through the MCP server.
+
+### Automate and visualize
+
+- **Charts and Dashboards:** chart SQL query or aggregation results with 20+ chart types and pin them to dashboards.
+- **Data Transfer:** run and monitor imports, exports and migrations between databases and files.
+- **Data Sync:** sync, copy and migrate data between MongoDB and SQL databases and environments.
+- **Data Compare:** compare MongoDB collections or SQL tables and spot differences instantly.
+- **RBAC Dashboard:** manage users, roles and permissions.
+
+### Operate and scale
+
+- **MongoDB Clusters:** deploy replica sets and sharded clusters to Docker or your own servers, then upgrade, resize and back them up.
+- **Sharding:** see which shard holds each collection's data and shard a collection with a guided Shard Key Advisor.
 
 ## Notes
 
